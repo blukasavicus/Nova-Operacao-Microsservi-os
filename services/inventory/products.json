@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Livro Tal tal",
+        "author": "Fulano de Tal",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemdolivro.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Livro Super Legal",
+        "author": "Ciclano da Silva",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemdolivro2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Livro fictício",
+        "author": "Beltrano",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemdolivro3.jpg"
+    }
+]
